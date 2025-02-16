@@ -1,0 +1,16 @@
+2025-02-16 14:10:27,707 - INFO - Starting test
+2025-02-16 14:10:27,709 - INFO - Searching flights with params: {'origin': 'NYC', 'destination': 'LAX', 'departure_date': '2025-03-18', 'return_date': '2025-03-25', 'passengers': 1}
+2025-02-16 14:10:27,710 - INFO - Searching flights with params: {'origin': 'NYC', 'destination': 'LAX', 'departure_date': '2025-03-18', 'return_date': '2025-03-25', 'passengers': 1}
+2025-02-16 14:10:27,710 - INFO - Flight search API test passed successfully
+2025-02-16 14:10:27,710 - INFO - Test completed
+2025-02-16 14:10:27,711 - INFO - Starting test
+2025-02-16 14:10:27,713 - INFO - Creating booking with data: {'flight_id': 'FL123', 'passenger': {'first_name': 'John', 'last_name': 'Doe', 'email': 'john.doe@example.com'}, 'payment': {'card_number': '4111111111111111', 'expiry_date': '12/25', 'cvv': '123'}}
+2025-02-16 14:10:27,713 - INFO - Creating booking with data: {'flight_id': 'FL123', 'passenger': {'first_name': 'John', 'last_name': 'Doe', 'email': 'john.doe@example.com'}, 'payment': {'card_number': '4111111111111111', 'expiry_date': '12/25', 'cvv': '123'}}
+2025-02-16 14:10:27,713 - INFO - Booking created successfully with ID: BOOK123
+2025-02-16 14:10:27,714 - INFO - Test completed
+2025-02-16 14:10:27,714 - INFO - Starting test
+2025-02-16 14:10:27,715 - INFO - Creating booking with data: {'flight_id': 'FL123', 'passenger': {'first_name': 'John', 'last_name': 'Doe', 'email': 'john.doe@example.com'}, 'payment': {'card_number': '4111111111111111', 'expiry_date': '12/25', 'cvv': '123'}}
+2025-02-16 14:10:27,716 - INFO - Created test booking with ID: BOOK123
+2025-02-16 14:10:27,716 - INFO - Getting booking details for ID: BOOK123
+2025-02-16 14:10:27,716 - INFO - Get booking details test passed successfully
+2025-02-16 14:10:27,716 - INFO - Test completed
